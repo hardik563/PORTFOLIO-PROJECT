@@ -24,16 +24,18 @@ I focused on creating a clean, modern, and interactive design while implementing
 
 This project helped me strengthen my frontend development, UI design, responsive design, and CSS animation skills.
 
-ABOUT ME
-
-<img width="1828" height="943" alt="Screenshot 2026-08-14 235718" src="https://github.com/user-attachments/assets/d3194ae0-dece-4084-b87a-18aefffc8443" />
-
-
 Designed the complete frontend using HTML and CSS with smooth animations, transitions, and interactive visual elements. 
 
 Implemented a structured and user-friendly layout with sections for my introduction, skills, projects, and profile.
 
 This project helped me improve my frontend development, responsive design, UI/UX, and CSS animation skills.
+
+ABOUT ME
+
+<img width="1828" height="943" alt="Screenshot 2026-08-14 235718" src="https://github.com/user-attachments/assets/d3194ae0-dece-4084-b87a-18aefffc8443" />
+
+
+
 
 
 
