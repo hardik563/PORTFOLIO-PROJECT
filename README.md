@@ -1,4 +1,5 @@
-**Developed a complete personal portfolio website using HTML and CSS to showcase my profile, skills, projects, achievements, and personal information. **
+**Developed a complete personal portfolio website using HTML and CSS to
+showcase my profile, skills, projects, achievements, and personal information. **
 
 
 <img width="1846" height="979" alt="Screenshot 2026-08-14 235632" src="https://github.com/user-attachments/assets/adeea772-f5db-46bd-a85d-9cb38a28ecd1" />
