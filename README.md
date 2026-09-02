@@ -3,7 +3,6 @@ showcase my profile, skills, projects,
 achievements, and personal information. **
 
 
-
 <img width="1846" height="979" alt="Screenshot 2026-08-14 235632" src="https://github.com/user-attachments/assets/adeea772-f5db-46bd-a85d-9cb38a28ecd1" />
 
 The website includes my profile image, animated sections, smooth transitions, responsive layouts, and a well-structured user flow.
